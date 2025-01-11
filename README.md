@@ -54,5 +54,5 @@ Ensure the following software is installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/mini-transactions.git
+   git clone https://github.com/Mohammad-Imran01/mini-transactions.git
    cd mini-transactions
