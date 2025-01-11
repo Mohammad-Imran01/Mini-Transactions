@@ -1,6 +1,6 @@
 # Mini-Transactions
 
-**Mini-Transactions** is a powerful desktop application built with Qt5 mingw for managing and visualizing transaction data. It features a secure login system, a robust transaction management interface, and advanced functionalities like sorting, filtering, and theme customization. Designed for both personal and professional use, it ensures seamless navigation and efficient data handling.
+**Mini-Transactions** is a literraly a mini desktop application built with Qt5 mingw for managing and visualizing transaction data. It features a secure login system, a robust transaction management interface, and advanced functionalities like sorting, filtering, and theme customization. Designed for both personal and professional use, it ensures seamless navigation and efficient data handling.
 
 ---
 
