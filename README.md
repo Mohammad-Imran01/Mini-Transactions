@@ -47,8 +47,7 @@
 
 ### 🛠️ Prerequisites
 Ensure the following software is installed:
-- **Qt6 Framework**: Tested with MSVC 2019.
-- **MSVC 2019**: Microsoft Visual Studio 2019 compiler.
+- **Qt5.15 Framework**: Tested with mingw32.
 
 ### 🔧 Installation
 
