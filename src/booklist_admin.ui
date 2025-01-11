@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/icons/icons/library.png</normaloff>:/icons/icons/library.png</iconset>
+    <normaloff>:/icons/icons/bank.png</normaloff>:/icons/icons/bank.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">#BookList_Admin
@@ -73,7 +73,7 @@ color: rgb(255, 255, 255);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">image: url(:/icons/icons/bookshelves.png);</string>
+     <string notr="true">image: url(:/icons/icons/shelves.png);</string>
     </property>
     <property name="frameShape">
      <enum>QFrame::StyledPanel</enum>

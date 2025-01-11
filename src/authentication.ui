@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/icons/icons/library.png</normaloff>:/icons/icons/library.png</iconset>
+    <normaloff>:/icons/icons/bank.png</normaloff>:/icons/icons/bank.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">QWidget
@@ -185,7 +185,7 @@ color: rgb(255, 255, 255);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">image: url(:/icons/icons/member-card.png);</string>
+     <string notr="true">image: url(:/icons/icons/mcardard.png);</string>
     </property>
     <property name="frameShape">
      <enum>QFrame::StyledPanel</enum>
