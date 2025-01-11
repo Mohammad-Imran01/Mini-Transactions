@@ -1,0 +1,2 @@
+cardnumber, pin, firstname, lastname, phonenumber
+1534566820173496,5634,Avery,McDonald,6479874455

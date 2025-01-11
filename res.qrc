@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/library.png</file>
+        <file>icons/member-card.png</file>
+        <file>icons/admin-dash.png</file>
+        <file>icons/librarian.png</file>
+        <file>icons/librarian-m.png</file>
+        <file>icons/user-dash.png</file>
+        <file>icons/reading.png</file>
+        <file>icons/reading-m.png</file>
+        <file>icons/bookshelves.png</file>
+        <file>icons/searching.png</file>
+        <file>icons/stairs.png</file>
+        <file>icons/book-club.png</file>
+        <file>icons/conspectus.png</file>
+        <file>icons/compose.png</file>
+        <file>icons/inbox.png</file>
+        <file>icons/outbox.png</file>
+        <file>icons/add_book.png</file>
+        <file>icons/edit-book.png</file>
+        <file>icons/hand-over.png</file>
+        <file>icons/return.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/add_group.png</file>
+        <file>icons/edit_group.png</file>
+    </qresource>
+</RCC>
