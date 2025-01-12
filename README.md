@@ -1,6 +1,6 @@
 # Mini-Transactions
 
-**Mini-Transactions** is a literraly a mini desktop application built with Qt5 mingw for managing and visualizing transaction data. It features a secure login system, a robust transaction management interface, and advanced functionalities like sorting, filtering, and theme customization. Designed for both personal and professional use, it ensures seamless navigation and efficient data handling.
+**Mini-Transactions** is a basic desktop application built with Qt5 mingw for managing and showing transaction data.
 
 ---
 
@@ -10,7 +10,9 @@
 - **User Authentication**: Reads and validates user credentials from a secure `.txt` file.
 - **Error Handling**: Displays appropriate error messages for invalid credentials.
 - **Session Management**: Automatically redirects authenticated users to the main dashboard.
-
+-
+![Play](./demo/pageLogin.png)
+-
 ---
 
 ### 💼 Comprehensive Transaction Management
@@ -18,13 +20,7 @@
 - Displays transactions in an organized, tabular format.
 - Supports large datasets with smooth scrolling and optimized rendering.
 - Dynamic resizing for different screen sizes.
-
-#### **Sorting**
-- Sort transactions by:
-  - **Date**: Chronological or reverse chronological order.
-  - **Amount**: Ascending or descending.
-  - **Type**: Expense or income.
-  - **Category**: Alphabetical order.
+![Play](./demo/log.png)
 
 #### **Filtering**
 - Filter transactions based on:
@@ -37,7 +33,6 @@
 
 ### 🎨 User Interface and Customization
 - **Intuitive Design**: Widget-based layout for easy navigation.
-- **Themes**: Switch between **Light Mode** and **Dark Mode**.
 - **Accessibility**: Resizable windows and adjustable table column widths.
 - **Multi-page Layout**: Logical separation of functionalities for better usability.
 
